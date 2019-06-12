@@ -1,6 +1,7 @@
 # Certification's List  
 **ID**|**Name**|**Year**|**Platform**|**Link**
 :-----:|:-----:|:-----:|:-----:|:-----:
+119|Statistical Simulation in Python|2019|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/4a251f0eb5152d0efed2c999f6f8e2e02570205a)
 118|Introduction to Linear Modeling in Python|2019|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/6758c551a5ca8423c0f594484193f2939fc52b65)
 117|**PyImageSearch Gurus Graduate**|2019|PyImageSearch|[link](https://gurus.pyimagesearch.com/certificates/?id=17225159)
 116|Preprocessing for Machine Learning in Python|2018|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/6a0b8229e09f443b02014e31f6b83c305ba20290)
