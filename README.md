@@ -1,6 +1,7 @@
 # Course's & Certification's List  
 **ID**|**Name**|**Year**|**Platform**|**Link**
 :-----:|:-----:|:-----:|:-----:|:-----:
+123|Deep Learning Computer Vision™ CNN, OpenCV, YOLO, SSD & GANs|2019|Udemy|[link](https://udemy-certificate.s3.amazonaws.com/image/UC-2XDAZWR9.jpg?l=null)
 122|Feature Engineering for NLP in Python|2019|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/c16049657fa8b9c25fb64e2987a7842426af6172)
 121|Alexa Essential Training|2019|Udemy|[link](https://udemy-certificate.s3.amazonaws.com/image/UC-8GUZYXNK.jpg?l=null)
 120|Introduction to TensorFlow in Python|2019|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/5ae8ef8c2b4de975c2b06455df1c34bda1cf95b3)
