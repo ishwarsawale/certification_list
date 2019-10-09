@@ -1,6 +1,8 @@
 # Course's & Certification's List  
 **ID**|**Name**|**Year**|**Platform**|**Link**
 :-----:|:-----:|:-----:|:-----:|:-----:
+129|30 Days of Python Unlock your Python Potential|2019|Udemy|[link](https://udemy-certificate.s3.amazonaws.com/image/UC-FEGG8TS1.jpg)
+128|Learn Python For Data Science W/ Search & Recommender Algos!|2019|Udemy|[link](https://udemy-certificate.s3.amazonaws.com/image/UC-A0N0XFTP.jpg)
 127|Tableau 10: Practical and Concise|2019|Udemy|[link](https://udemy-certificate.s3.amazonaws.com/image/UC-PZEK99SH.jpg)
 126|C, C++, Python and Ruby Programming|2019|Udemy|[link](https://udemy-certificate.s3.amazonaws.com/image/UC-5FZPRFJ2.jpg)
 125|The Complete Python 3 Course: Beginner to Advanced!|2019|Udemy|[link](https://udemy-certificate.s3.amazonaws.com/image/UC-0QJ5D2BC.jpg)
