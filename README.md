@@ -1,6 +1,8 @@
 # Course's & Certification's List  
 **ID**|**Name**|**Year**|**Platform**|**Link**
 :-----:|:-----:|:-----:|:-----:|:-----:
+154|Dimensionality Reduction in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/da02c32eba7e960454b0be7d7db4c9a0657b045b)
+153|Creating Robust Workflows in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/67d3fae24a63d324402e979b28cfc526493fba86)
 152|Machine Learning for Time Series Data in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/44fc880ad7c92846e9584f5e9813d9a96e070f87)
 151|Object-Oriented Programming in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/1de7cf6c570bae6b2d693e2cd7dc2e0df3f4ba58)
 150|Writing Functions in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/e8da672993ceccb0f0a415f82dc977708e1b31b9)
