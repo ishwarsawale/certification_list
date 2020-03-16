@@ -1,6 +1,8 @@
 # Course's & Certification's List  
 **ID**|**Name**|**Year**|**Platform**|**Link**
 :-----:|:-----:|:-----:|:-----:|:-----:
+152|Machine Learning for Time Series Data in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/44fc880ad7c92846e9584f5e9813d9a96e070f87)
+151|Object-Oriented Programming in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/1de7cf6c570bae6b2d693e2cd7dc2e0df3f4ba58)
 150|Writing Functions in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/e8da672993ceccb0f0a415f82dc977708e1b31b9)
 149|Cluster Analysis in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/7d9099998a92a42ec9c2f384dde1371f374d4ccd)
 148|Writing Efficient Code with pandas|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/770892ea8f8b91e1fe678553cdec7c8539240f28)
