@@ -1,6 +1,8 @@
 # Course's & Certification's List  
 **ID**|**Name**|**Year**|**Platform**|**Link**
 :-----:|:-----:|:-----:|:-----:|:-----:
+157|Coding Best Practices with Python Track|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/track/bfadfe50be323b339ff1193016a2292cbc3b2838)
+156|Unit Testing for Data Science in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/463bc270a3fd1d34887e78458d535b540c7ef803)
 155|Software Engineering for Data Scientists in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/ae18974a5581a427966267304fe839d823609721)
 154|Dimensionality Reduction in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/da02c32eba7e960454b0be7d7db4c9a0657b045b)
 153|Creating Robust Workflows in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/67d3fae24a63d324402e979b28cfc526493fba86)
