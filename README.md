@@ -1,6 +1,7 @@
 # Course's & Certification's List  
 **ID**|**Name**|**Year**|**Platform**|**Link**
 :-----:|:-----:|:-----:|:-----:|:-----:
+158|**Statistics Fundamentals with Python Track**|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/track/c4008a087c58af1f919bb532c35ce693f21d4738)
 157|**Coding Best Practices with Python Track**|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/track/bfadfe50be323b339ff1193016a2292cbc3b2838)
 156|Unit Testing for Data Science in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/463bc270a3fd1d34887e78458d535b540c7ef803)
 155|Software Engineering for Data Scientists in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/ae18974a5581a427966267304fe839d823609721)
