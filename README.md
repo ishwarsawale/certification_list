@@ -1,6 +1,7 @@
 # Course's & Certification's List  
 **ID**|**Name**|**Year**|**Platform**|**Link**
 :-----:|:-----:|:-----:|:-----:|:-----:
+161|Model Validation in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/d8ccf4900a523f659bf734114eae0053e36d9116)
 160|Feature Engineering for Machine Learning in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/7619b4fba4ee211dc35cbfe6a0ddfd665c3c7df4)
 159|Complete Tensorflow 2 and Keras Deep Learning Bootcamp|2020|Udemy|[link](https://udemy-certificate.s3.amazonaws.com/image/UC-cec61e04-1ba2-4531-b592-95c0d32cb808.jpg)
 158|**Statistics Fundamentals with Python Track**|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/track/c4008a087c58af1f919bb532c35ce693f21d4738)
