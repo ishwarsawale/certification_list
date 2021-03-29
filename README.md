@@ -1,6 +1,11 @@
 # Course's & Certification's List  
 **ID**|**Name**|**Year**|**Platform**|**Link**
 :-----:|:-----:|:-----:|:-----:|:-----:
+173|**Natural Language Processing Specialization by deeplearning.ai**|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/specialization/certificate/CA249CD3B35B)
+172|Natural Language Processing with Attention Models by deeplearning.ai|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/certificate/4PBDN4DWU732)
+171|Natural Language Processing with Sequence Models by deeplearning.ai|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/certificate/Z5KKFTJWBHVC)
+170|Natural Language Processing with Probabilistic Models by deeplearning.ai|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/certificate/YES89LVNK29P)
+169|Natural Language Processing with Classification and Vector Spaces by deeplearning.ai|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/certificate/DR7CH3PDVP9J)
 168|Python (Advanced) Certificate|2020|HackerRank|[link](https://www.hackerrank.com/certificates/aeaeb8c21aac)
 167|Recurrent Neural Networks for Language Modeling in Python|2020|DataCamp|[link](https://www.datacamp.com/statement-of-accomplishment/course/6be3e199158be72db89ddbb1bbc8f8baee56c15a)
 166|Tensorflow 2.0: Deep Learning and Artificial Intelligence|2020|Udemy|[link](https://udemy-certificate.s3.amazonaws.com/image/UC-47b4ea53-9923-4551-91dc-dff70884dd9e.jpg?v=1595075149000)
