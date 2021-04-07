@@ -1,6 +1,10 @@
 # Course's & Certification's List  
 **ID**|**Name**|**Year**|**Platform**|**Link**
 :-----:|:-----:|:-----:|:-----:|:-----:
+177|**Generative Adversarial Networks (GANs) Specialization by deeplearning.ai**|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/specialization/certificate/2W4NVMZQYKMV)
+176|Apply Generative Adversarial Networks (GANs) by deeplearning.ai|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/specialization/certificate/CW2W2PUHTNNB)
+175|Build Better Generative Adversarial Networks (GANs) by deeplearning.ai|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/specialization/certificate/NA3BUMDBT6JH)
+174|Build Basic Generative Adversarial Networks (GANs) by deeplearning.ai|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/specialization/certificate/N2GGHW8W966U)
 173|**Natural Language Processing Specialization by deeplearning.ai**|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/specialization/certificate/CA249CD3B35B)
 172|Natural Language Processing with Attention Models by deeplearning.ai|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/certificate/4PBDN4DWU732)
 171|Natural Language Processing with Sequence Models by deeplearning.ai|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/certificate/Z5KKFTJWBHVC)
