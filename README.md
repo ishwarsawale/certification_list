@@ -1,6 +1,7 @@
 # Course's & Certification's List  
 **ID**|**Name**|**Year**|**Platform**|**Link**
 :-----:|:-----:|:-----:|:-----:|:-----:
+178|Math for Machine Learning|2021|Amazon Web Services (AWS)|[link](https://drive.google.com/file/d/17--Ros8DlpNbwahNpgne5MOhD7J90zUp/view)
 177|**Generative Adversarial Networks (GANs) Specialization by deeplearning.ai**|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/specialization/certificate/2W4NVMZQYKMV)
 176|Apply Generative Adversarial Networks (GANs) by deeplearning.ai|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/specialization/certificate/CW2W2PUHTNNB)
 175|Build Better Generative Adversarial Networks (GANs) by deeplearning.ai|2021|Coursera|[link](https://www.coursera.org/account/accomplishments/specialization/certificate/NA3BUMDBT6JH)
